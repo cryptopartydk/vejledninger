@@ -6,7 +6,7 @@
 * Eksportér din offentlige nøgle og send den i en email til Jesper på keysigning@graffen.dk *senest den 26. kl 12:00*
 * Umiddelbart inden vi mødes vil Jesper udskrive listen i samme antal eksemplarer som har skrevet sig op til signing. 
 * Det er altså kun de keys, der står på listen, der deltager i key signingen. 
-* Det er vigtigt, at du har dit eget fingerprint med på et stykke papir, som kan bruges til at verificere mod den officielle liste.
+* Det er vigtigt, at du har dit eget fingerprint med på et stykke papir, som kan bruges til at verificere mod den officielle liste. Brug f.eks. outputtet fra gpg --fingerprint &lt;din email>
   
 ## Hvordan foregår det så på selve aftenen?
 Når du ankommer skal du finde Jesper - han er nok et sted omkring baren (det er jo dér, øllene er!). Han giver dig den udprintede liste

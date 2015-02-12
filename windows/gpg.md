@@ -5,8 +5,8 @@
 ... hvad er GnuPG for noget?
 
 ## Indhold
-[Installation](#Installation)
-[Generering af nøglepar](#Generering-af-nøglepar)
+[Installation](#installation)  
+[Generering af nøglepar](#generering-af-nøglepar)  
 
 
 ## Installation

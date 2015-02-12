@@ -1,17 +1,16 @@
 # Key Signing Party Vejledning
 *Tid og sted: Den 27/2 kl 18:00 på Ørsted Ølbar, Nørre Farimagsgade 13, 1364 Kbh K*  
-
+[Tilmelding](http://doodle.com/ckh8btspqz8mxgrs)
 ## Hvordan forbereder jeg mig til keysigning?
 * Generér et PGP nøglepar
 * Eksportér din offentlige nøgle og send den i en email til Jesper på keysigning@graffen.dk *senest den 26. kl 12:00*
 * Umiddelbart inden vi mødes vil Jesper udskrive listen i samme antal eksemplarer som har skrevet sig op til signing. 
 * Det er altså kun de keys, der står på listen, der deltager i key signingen. 
-* Det er vigtigt, at du har dit eget fingerprint med på et stykke papir, som kan bruges til at verificere mod den officielle liste. Brug f.eks. outputtet fra gpg --fingerprint &lt;din email>
+* Et link til Listen med alle deltagende nøgler bliver offentliggjort her, på [doodle-siden](http://doodle.com/ckh8btspqz8mxgrs), på [Facebook](https://www.facebook.com/events/857599447611478/) og på [Twitter](http://twitter.com/graffen) den 26. om aftenen. Sørg for at udskrive listen og tag den med. Tag også en kuglepen med. 
   
 ## Hvordan foregår det så på selve aftenen?
-Når du ankommer skal du finde Jesper - han er nok et sted omkring baren (det er jo dér, øllene er!). Han giver dig den udprintede liste
-over tilmeldte fingerprints. I løbet af aftenen er det så din opgave, at mingle og opsøge så mange på listen som muligt.  
-  
+I løbet af aftenen er det din opgave, at mingle og opsøge så mange på listen som muligt. Har du glemt din liste eller ikke adgang til en printer, så tager Jesper nogle ekstra lister med (husk at verificere at din liste er identisk med de andre deltageres)  
+
 Når du finder en ny person som du ikke har verificeret før: 
 * Start med at verificér hinandens fingerprints på begge jeres lister (for at sikre, at den ene part ikke har en anden liste end din). Stemmer det, så kryds af i feltet 'Key Info Matches?'
 * Hvis fingerprints stemmer så verificér hinandens identitet ved at kontrollere navnet på enten pas eller kørekort imod det, der står på listen.

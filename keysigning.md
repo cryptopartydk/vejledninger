@@ -10,7 +10,7 @@
 * Et link til listen med alle deltagende nøgler bliver offentliggjort her, på [doodle-siden](http://doodle.com/ckh8btspqz8mxgrs), på [Facebook](https://www.facebook.com/events/857599447611478/) og på cryptoparty.dks IRC kanal (#cryptopartydk på Freenode) den 26. om aftenen. Sørg for at udskrive listen og tag den med. Tag også en kuglepen med.
 
 ## Hvordan foregår det så på selve aftenen?
-I løbet af aftenen er det din opgave, at mingle og opsøge så mange på listen som muligt. Har du glemt din liste eller ikke adgang til en printer, så tager Jesper nogle ekstra lister med (husk at verificere at din liste er identisk med de andre deltageres)
+I løbet af aftenen er det din opgave, at mingle og opsøge så mange på listen som muligt. Har du glemt din liste eller ikke adgang til en printer, så tager Jesper nogle ekstra lister med (husk at verificere at din liste er identisk med de andre deltageres)  
 Når du finder en ny person som du ikke har verificeret før:
 
 * Start med at verificér hinandens fingerprints på begge jeres lister (for at sikre, at den ene part ikke har en anden liste end din). Stemmer det, så kryds af i feltet 'Key Info Matches?'  

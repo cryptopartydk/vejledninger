@@ -44,8 +44,8 @@ Hvordan undgår man så det?
 
 Det gør man ved, at få folk, der kender én til at stå inde for, at din nøgle rent faktisk tilhører dig. I praksis gøres det ved, at man laver en digital signatur på nøglen.
 Når så du skal sende f.eks. mig en krypteret email, så går du ind og finder min nøgle på en keyserver. Tag f.eks. et kig på en af mine nøgler på [MIT's keyserver](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x416C5A0DD9FA2EE5). 
-Allerede her kan du se, at der er flere signaturer på nøglen. Der er altså en række folk som enten kender mig personligt, og som har verificeret mit fingerprint ad andre veje (f.eks. over telefonen eller ved personligt møde), eller 
-folk, der har verificeret at min identitet stemmer overens med de informationer, der findes i nøglen. På PGP-nøgler er det typisk navnet, man verificerer. Identitet verificeres normalt ved, at man fremviser et gyldigt stykke ID, udstedt af en passende myndighed. Det kunne
+Her kan du se, at der er flere signaturer på nøglen. Der er altså en række folk som enten kender mig personligt, og som har verificeret mit fingerprint ad andre veje (f.eks. over telefonen eller ved personligt møde), eller 
+folk, der har verificeret at min identitet stemmer overens med de informationer, der findes i nøglen. På PGP-nøgler er det typisk navnet, man verificerer. Identitet verificeres normalt ved, at man fremviser et gyldigt og officielt udstedt ID. Det kunne
 f.eks. være et pas eller et kørekort.  
   
 Jo flere forskellige signaturer, du kan få på din nøgle, og jo flere nøgler du selv signerer, jo stærkere et "netværk" kommer din nøgle med i. I PGP kaldes dette netværk for

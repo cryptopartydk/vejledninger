@@ -5,7 +5,9 @@
 ## Hvordan forbereder jeg mig til keysigning?
 
 * Det forudsættes at du allerede har genereret et PGP-nøglepar, som du gerne vil have andre til at signere.
-* Eksportér din offentlige nøgle og send den i en email til Jesper på keysigning@graffen.dk *senest den 26. kl 21:00*
+* Eksportér din offentlige nøgle. I kommandoprompten/terminalen gøres det med:  
+  `gpg --export -a <din emailadresse> > pubkey.asc`
+* Vedhæft filen pubkey.asc til en email som sendes til Jesper på keysigning@graffen.dk *senest den 26. kl 21:00*
 * Efter kl 21 den 26. februar, vil der blive genereret en HTML-fil som indeholder en liste med alle de indsendte nøgle-ID'er, fingerprints og navne.
 * Et link til listen med alle deltagende nøgler bliver offentliggjort her, på [doodle-siden](http://doodle.com/ckh8btspqz8mxgrs), på [Facebook](https://www.facebook.com/events/857599447611478/) og på cryptoparty.dks IRC kanal (#cryptopartydk på Freenode) den 26. om aftenen. Sørg for at udskrive listen og tag den med. Tag også en kuglepen med.
 

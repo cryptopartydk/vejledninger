@@ -9,7 +9,6 @@
   `gpg --export -a <din emailadresse> > pubkey.asc`
 * Vedhæft filen pubkey.asc til en email som sendes til Jesper på keysigning@graffen.dk *senest den 26. kl 21:00*
 * Efter kl 21 den 26. februar, vil der blive genereret en HTML-fil som indeholder en liste med alle de indsendte nøgle-ID'er, fingerprints og navne.
-* ~~Et link til listen med alle deltagende nøgler bliver offentliggjort her, på [doodle-siden](http://doodle.com/ckh8btspqz8mxgrs), på [Facebook](https://www.facebook.com/events/857599447611478/) og på cryptoparty.dks IRC kanal (#cryptopartydk på Freenode) den 26. om aftenen.~~   
 * Listen med deltagernøgler ligger [her](http://graffen.dk/keysigning). Bemærk, at emailadresser er masket indtil videre. De bliver afmasket aftenen inden arrangementet. Sørg for at udskrive listen og tag den med. Og en kuglepen.
 
 ## Hvordan foregår det så på selve aftenen?
